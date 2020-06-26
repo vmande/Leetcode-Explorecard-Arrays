@@ -1,0 +1,15 @@
+Two Pointer Algorithm:
+======================
+
+
+When can we use Two pointer Algorithm:
+======================================
+1. When we know that we can reduce the Time COmplexity of a particular program to O(N^3) to O(N^2) and similarly
+from O(N^2) to O(N).
+
+
+Where to use 2pointer Algorithm:
+=================================
+1. Whenever u come across in the question that the array is sorted, that is where 2 pointer Algorithm is implemented.
+
+  Use either binary search or two pointer Algorithm.
